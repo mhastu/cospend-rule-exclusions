@@ -10,3 +10,6 @@ Just put the `.conf` files of the apps you use in the plugins folder of your cor
 
 # Contribution
 Please create an issue if you encounter false positives, find bugs or have other suggestions.
+
+# Notes
+The used rule IDs are not reserved, you might need to change them if they clash with other rules.
